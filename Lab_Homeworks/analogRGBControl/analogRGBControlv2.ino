@@ -4,9 +4,9 @@ const int redPin = 11;
 
 void setup() {
   // put your setup code here, to run once:
-  pinMode(redPin,OUTPUT);
-  pinMode(greenPin,OUTPUT);
-  pinMode(bluePin,OUTPUT);
+  pinMode(redPin, OUTPUT);
+  pinMode(greenPin, OUTPUT);
+  pinMode(bluePin, OUTPUT);
   
   Serial.begin(9600);
 }
@@ -47,7 +47,7 @@ void loop() {
 }
 
 void setColor(int red, int green, int blue) {
-  analogWrite(redPin,red);
-  analogWrite(greenPin,green);
-  analogWrite(bluePin,blue);
+  analogWrite(redPin, red);
+  analogWrite(greenPin, green);
+  analogWrite(bluePin, blue);
 }
