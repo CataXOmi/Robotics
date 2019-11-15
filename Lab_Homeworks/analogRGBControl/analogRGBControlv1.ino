@@ -18,28 +18,28 @@ int ledValue3 = 0; //red
 
 void setup() {
   // put your setup code here, to run once:
-  pinMode(potPin1,INPUT);
-  pinMode(ledPin1,OUTPUT);
+  pinMode (potPin1, INPUT);
+  pinMode (ledPin1, OUTPUT);
   
-  pinMode(potPin2,INPUT);
-  pinMode(ledPin2,OUTPUT);
+  pinMode (potPin2, INPUT);
+  pinMode (ledPin2, OUTPUT);
   
-  pinMode(potPin3,INPUT);
-  pinMode(ledPin3,OUTPUT);
+  pinMode (potPin3, INPUT);
+  pinMode (ledPin3, OUTPUT);
 
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-  potValue1 = analogRead(potPin1);
-  ledValue1 = map(potValue1,0,1023,0,255);
-  analogWrite(ledPin1,ledValue1);
+  potValue1 = analogRead (potPin1);
+  ledValue1 = map (potValue1, 0, 1023, 0, 255);
+  analogWrite (ledPin1, ledValue1);
  
-  potValue2 = analogRead(potPin2);
-  ledValue2 = map(potValue2,0,1023,0,255);
-  analogWrite(ledPin2,ledValue2);
+  potValue2 = analogRead (potPin2);
+  ledValue2 = map (potValue2, 0, 1023, 0, 255);
+  analogWrite (ledPin2, ledValue2);
 
-  potValue3 = analogRead(potPin3);
-  ledValue3 = map(potValue3,0,1023,0,255);
-  analogWrite(ledPin3,ledValue3);
+  potValue3 = analogRead (potPin3);
+  ledValue3 = map (potValue3, 0, 1023, 0, 255);
+  analogWrite (ledPin3, ledValue3);
 }
