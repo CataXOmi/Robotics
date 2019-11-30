@@ -21,3 +21,4 @@ Homework 6
 Game Menu using LCD Display - LAB5 HOMEWORK
 
 The code is used to display an incrementation for the levels and score and then it memorizes the highscore.
+Link to the video demonstration : 
