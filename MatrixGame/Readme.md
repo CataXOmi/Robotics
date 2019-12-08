@@ -53,4 +53,5 @@
   After these, we will get the second screen  where we will display a button for restart, another one for the initial menu and the score of the player.
 ## Schematic
 
+  This is an example of how the pattern of the level can look.
 ![Schema](https://user-images.githubusercontent.com/49250412/70389462-43363100-19c8-11ea-9925-2c882e720dac.PNG)
