@@ -1,9 +1,29 @@
-# Atari Breakout
+# Breakout
 
 ## Game description
 
+  Breakout is an arcade game. In this game the player is represented by a paddle with a ball that jumps in a direction and his purpose is to destroy all the bricks to pass the level and eventually finish the game. While moving forward, the player will encounter various patterns. The difficulty will get higher with the level.
 
+## Requirements
+
+### Hardware
+
+  For this project the hardware elements needed are : an 8x8 LED matrix used to display the game, an LCD used to view game menu, two joysticks, one for in-game movement and the other one for LCD control, a potentiometer used for LCD contrast, a button used to start or stop the LCD, a MAX7219 Driver, resistors and wires.
+  
+### Game specifications
+
+* The score is the sum of the scores obtained at each level before you lose all of your lives.
+* After each level the speed of the ball will increase and the size of the paddle will lower.
+* We will have 3 levels with different patterns. The player starts with 3 lives and after he misses the ball he will lose 1 life.
+* The highscore will be saved in EEPROM.
+
+  This game like many others has it's own story.
+  In a world where people's lives were controlled by computers through chips implanted in their brains, a guy named Keanu wakes up in a morning through a dream, unusual thing for these inhuman beings. From that moment his life changes radically because, a series of images appear in his mind, images that present not only him as a human, with his family and friends, but also the moment when everything was taken away from him, the moment when he became what he is now, a robot in a human body.
+  Initially he doesn't lend much importance to this dream, but when he goes to work the boss comes to give him a new project and then he realizes that this man was his father from that dream. When he looked around, he noticed that many of the co-workers were people from that dream, but they, like him, didn't know about their previous lives.
+  Therefore, Keanu realizes the cruel truth behind this new life and intends to free everyone from this cursed, controlled life by returning their memories. He starts to work in the dark, at a perfect plan that will restore everything to normal. After months of work, in which everything seemed impossible, he begins the operation in the evening, at the central tower, where he manages to infiltrate. Everything seemed to work perfectly, until he connects to the main chip, and reaches a virtual tunnel blocked by bricks. He has to clear the path if he wants to save the humanity.
+  It's your turn to help Keanu and save the day!
 
 ## Schematic
+
 
 ![Schema](https://user-images.githubusercontent.com/49250412/70389462-43363100-19c8-11ea-9925-2c882e720dac.PNG)
