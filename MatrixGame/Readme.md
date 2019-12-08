@@ -26,7 +26,7 @@
 
 ### Documentation
 
-  
+  The player controls the paddle with the joystick, using the X axis. Specifying a direction, left or right, will make the player to move to that side and catch the ball and throw it and try to break the bricks. If he didn't catch the ball, will lose 1 life. If he loses all lives he will receive a message and will have an option to restart the game. If he ends all the levels he will receive from the one and olny, Keanu this message "You're breathtaking!". 
 
   The elements of hardware used for this game are : 
 * a MAX7219 Driver
@@ -38,20 +38,21 @@
 * Potentiometer
 * Joystick
 
-
-
 ### LCD Display
 
 * Play game - this option will start the game and will show on the screen the score and the lives of the player.
 * HighScore - this option will display the highscore
 * StartingLevel - this option will let you to choose the level from which will you play.
 * LCDSettings - this option will let you to choose the contrast and the light for the LCD.
-* Info
+* Info - this option will show the credits.
   
-  During the game we will display the lives and the score of the player. 
+  During the game we will display the lives and the score of the player.
+  We can save the name of the player for a better understanding of the HighScore information.
   After the game finishes we will display the message "You're breathtaking!' if you complete all the levels and the message "Wake up samurai. We have a city to save." if you lose the game. If you make a highscore you will get this message "You are good, but not like Keanu".
   After these, we will get the second screen  where we will display a button for restart, another one for the initial menu and the score of the player.
+
 ## Schematic
 
   This is an example of how the pattern of the level can look.
+
 ![Schema](https://user-images.githubusercontent.com/49250412/70389462-43363100-19c8-11ea-9925-2c882e720dac.PNG)
