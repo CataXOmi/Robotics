@@ -14,7 +14,9 @@ https://youtu.be/XFjIObBHblA
 ### Hardware
 
   For this project the hardware elements needed are : an 8x8 LED matrix used to display the game, an LCD used to view game menu, a joystick used for in-game movement and LCD control, a potentiometer used for LCD contrast, a button used to start or stop the LCD, a MAX7219 Driver, resistors and wires.
-  
+
+![WhatsApp Image 2019-12-22 at 19 55 25](https://user-images.githubusercontent.com/49250412/71325416-11a78480-24f5-11ea-9685-6908887844bd.jpeg)
+
 ### Game specifications
 
 * The score is the sum of the scores obtained at each level before you lose all of your lives.
