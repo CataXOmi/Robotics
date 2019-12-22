@@ -23,6 +23,7 @@ https://youtu.be/XFjIObBHblA
 * After each level the speed of the ball will increase and the size of the paddle will lower.
 * We will have 3 levels with different patterns. The player starts with 3 lives and after he misses the ball he will lose 1 life.
 * The highscore will be saved in EEPROM.
+  You will control the paddle with joystick and you will try to break all the bricks and finish the level to get to another one or to finish the game. The paddle can only be moved left or right. The LCD will display informations about the player in realtime.
 
   The matrix will display an X after the game is over.
   This game like many others has it's own story.
