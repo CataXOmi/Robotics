@@ -61,3 +61,6 @@ https://youtu.be/XFjIObBHblA
   This is an example of how the pattern of the level can look.
 
 ![Schema](https://user-images.githubusercontent.com/49250412/70389462-43363100-19c8-11ea-9925-2c882e720dac.PNG)
+![Nivel1](https://user-images.githubusercontent.com/49250412/71325400-d4db8d80-24f4-11ea-8416-17196cc96d39.PNG)
+![Nivel2](https://user-images.githubusercontent.com/49250412/71325401-d4db8d80-24f4-11ea-8248-a5a66e0353b6.PNG)
+![Nivel3](https://user-images.githubusercontent.com/49250412/71325402-d5742400-24f4-11ea-9c57-f81c2332aeb1.PNG)
