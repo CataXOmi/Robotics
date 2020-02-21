@@ -13,4 +13,7 @@ With the potentiometer we will change the contrast of the screen and with the LC
 https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1602664049
 
 ## Hardware
+![WhatsApp Image 2020-02-21 at 20 56 50](https://user-images.githubusercontent.com/49250412/75063171-fead3280-54ec-11ea-9599-90948096951c.jpeg)
 
+## Link to the tutorial
+https://www.youtube.com/watch?v=PfvqunpN7M4&list=PLeqptku6zrB07tubuQXKgugOsiltqUeck&index=31&t=99s
