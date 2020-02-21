@@ -3,6 +3,7 @@ This readme includes the documentation for the Final Project.
 # Temperature sensor
 
 ## Demo video link
+https://youtu.be/8mmp7llE9Yg
 
 ## Instructions
 
